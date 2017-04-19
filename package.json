@@ -1,0 +1,16 @@
+{
+  "name": "stock-charts",
+  "version": "1.0.0",
+  "description": "An application that allows you to search for stocks and view their data for 1m, 3m, 6m, and 1 yr price trends.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tony Nguyen",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.5.6",
+    "express": "^4.15.2",
+    "request": "^2.81.0"
+  }
+}
